@@ -1,0 +1,30 @@
+#chrome intro 
+  
+U - Uniform
+R - resource 
+L - Locator
+
+ -> URL is used to search something. It fetch what the user want.
+ It fetch data where it is stored. 
+
+#Structure 
+  
+   -->>Scheme: //domain:port/path?query_string#fragment_id 
+   For example "scheme" is HTTPS,FTP.
+   Domain is the name of the server or the machine. 
+   
+  
+  ▪︎ In a static web page path is the place where it is stored or extension.
+  ▪︎ The Query string and fragment_id are also optional .
+  
+  ▪︎ Where the URL contains,HTML,CSS,JS all combine to form the website.
+  
+  ■ HTML->it has the text contents of the data like headers,footers,image,paragraph,
+  
+  ■ CSS-> Is the stylesheet otherwise it can be used to describe the appearance of website. 
+   I.e fonts,colour position. 
+  
+  ■ Js-> It describes the behaviour of the web page .The actions are to be executed. 
+
+  A chrome is where HTML,CSS,Javascript file and render the final
+  Output of the website.
